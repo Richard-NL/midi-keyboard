@@ -1,0 +1,20 @@
+{
+  "name": "point-and-click",
+  "version": "0.0.1",
+  "authors": [
+    "Richard Hoogstad <richard.hoogstad@eleven.nl>"
+  ],
+  "description": "point and click startup",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mootools": "~1.5.1"
+  }
+}
